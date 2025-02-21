@@ -45,7 +45,7 @@ This will save reviews in the `googreviews` folder as JSON files.
 ### 2. Analyze Reviews
 Run the Python script to process and analyze the reviews:
 ```
-python analyze_reviews.py
+python bert.py
 ```
 This will generate:
 - **Sentiment-based aspect ratings**
